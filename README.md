@@ -1,5 +1,5 @@
 # Sampling
-<h1> **Sampling** </h1>
+<h1> Sampling </h1>
 
 Sampling is a statistical technique used in research and data analysis to select a subset of individuals or observations from a larger population. Instead of collecting data from the entire population, researchers gather information from a representative sample. The goal is to make inferences and draw conclusions about the entire population based on the characteristics observed in the selected sample. Sampling is employed to save time, resources, and costs, while still providing reliable insights when done with appropriate methods and considerations for representativeness.
 
