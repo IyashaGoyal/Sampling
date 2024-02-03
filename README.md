@@ -7,7 +7,8 @@ Sampling is a statistical technique used in research and data analysis to select
 Sampling is a statistical method used to select a representative subset from a larger population, providing a more practical and cost-efficient way to gather insights. It saves resources, conserves time, and is often necessary when studying large or inaccessible populations. Proper sampling allows researchers to make accurate inferences about the entire population based on the characteristics of the chosen subset, making it a crucial tool in data analysis and research.
 
 <h2>Methodology</h2>
-![image](https://github.com/IyashaGoyal/Sampling/assets/144591074/f29c4015-222d-41d8-87c9-53bc364e7552)
+![image](https://github.com/IyashaGoyal/Sampling/assets/144591074/3e89aab5-6ccd-49c5-9767-63fd90fd2613)
+
 
 <h2>Sampling Techniques</h2>
 Apply Various sampling techniques to address class imbalance:
