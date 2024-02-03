@@ -8,10 +8,10 @@ Sampling is a statistical method used to select a representative subset from a l
 
 <h2>Sampling Techniques</h2>
 Apply Various sampling techniques to address class imbalance:
-**Oversampling:**
+<h3>Oversampling:</h3>
 Random Oversampling: balance the class distribution by randomly duplicating the instances of the minority class
 SMOTE: Generates synthetic samples by focusing on the minority samples
-**Undersampling:**
+<h3>Undersampling:</h3>
 Random Undersampling: balance the class distribution by randomly duplicating the instances of the majority class
 Tomek Links: Identifies and remove instances that are considered ambiguous or near the decision boundary between classes
 Near miss: Identifies instances which are close to instances from minority class, aiming to retain the instances that are more difficult to classify correctly
