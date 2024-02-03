@@ -1,21 +1,21 @@
 # Sampling
 <h2> What is Sampling? </h2>
-
 Sampling is a statistical technique used in research and data analysis to select a subset of individuals or observations from a larger population. Instead of collecting data from the entire population, researchers gather information from a representative sample. The goal is to make inferences and draw conclusions about the entire population based on the characteristics observed in the selected sample. Sampling is employed to save time, resources, and costs, while still providing reliable insights when done with appropriate methods and considerations for representativeness.
 
 <h2>Why do we need Sampling? </h2>
 Sampling is a statistical method used to select a representative subset from a larger population, providing a more practical and cost-efficient way to gather insights. It saves resources, conserves time, and is often necessary when studying large or inaccessible populations. Proper sampling allows researchers to make accurate inferences about the entire population based on the characteristics of the chosen subset, making it a crucial tool in data analysis and research.
 
-Methodology
-![image](https://github.com/IyashaGoyal/Sampling/assets/144591074/d2300b0f-4062-459d-a15c-25ac77401194)
+**Methodology**
 
-
+![image](https://github.com/IyashaGoyal/Sampling/assets/144591074/8232f2b4-04fc-405c-a2a0-6278710e3aca)
 
 <h2>Sampling Techniques</h2>
 Apply Various sampling techniques to address class imbalance:
+
 <h3>Oversampling:</h3>
 Random Oversampling: balance the class distribution by randomly duplicating the instances of the minority class
 SMOTE: Generates synthetic samples by focusing on the minority samples
+
 <h3>Undersampling:</h3>
 Random Undersampling: balance the class distribution by randomly duplicating the instances of the majority class
 Tomek Links: Identifies and remove instances that are considered ambiguous or near the decision boundary between classes
@@ -52,6 +52,10 @@ Random Undersampling randomly removes instances from the majority class to balan
 
 <h3>SMOTE (Synthetic Minority Over-sampling Technique):</h3>
 SMOTE is a synthetic oversampling technique that creates synthetic instances in the feature space of the minority class to balance the class distribution and improve model performance on minority class predictions.
+
+<h2>Results</h2>
+On comparison of different models and their corresponding sampling techniques Random Forest technique gave us the best results on different models.
+Note: Data can be preprocessed and explored further and metrics might come out different
 
 
 
