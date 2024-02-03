@@ -32,6 +32,22 @@ Random Forest is an ensemble learning algorithm that builds multiple decision tr
 <h3>Support Vector Machine (SVM):</h3>
 SVM is a powerful classification algorithm that aims to find the hyperplane that best separates classes in a high-dimensional space, and it can benefit from sampling techniques to handle class imbalance effectively.
 
+<h2>Sampling Techniques</h2>
+<h3>ADASYN (Adaptive Synthetic Sampling):</h3>
+ADASYN is a synthetic oversampling technique that generates additional minority class samples with a higher emphasis on more challenging instances, addressing the imbalance in datasets.
+
+<h3>BorderlineSMOTE (Borderline Synthetic Minority Over-sampling Technique):</h3>
+BorderlineSMOTE is a variation of SMOTE that specifically focuses on generating synthetic samples near the borderline between classes, improving the classification of minority instances.
+
+<h3>Random OverSampling:</h3>
+Random Oversampling involves randomly duplicating minority class instances to balance class distribution, addressing the issue of imbalanced datasets by increasing the representation of the minority class.
+
+<h3>Random UnderSampling:</h3>
+Random Undersampling randomly removes instances from the majority class to balance class distribution, mitigating imbalances in datasets by reducing the dominance of the majority class.
+
+<h3>SMOTE (Synthetic Minority Over-sampling Technique):</h3>
+SMOTE is a synthetic oversampling technique that creates synthetic instances in the feature space of the minority class to balance the class distribution and improve model performance on minority class predictions.
+
 
 
 
